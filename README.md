@@ -11,6 +11,6 @@ My interest in programming started about six years ago and has grown into someth
 
 - Software Architecture: Understanding how systems are organized and ways to prevent disorganization
 
-- Learning new programing languages: Diving more into the lets say more funs ones such as BF & Befuge
+- Learning new programing languages: Diving more into the lets say more funs ones such as BF & Befunge
 
 - Automation: Creating scripts that allow for easier of use of boring and repetitive tasks

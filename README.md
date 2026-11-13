@@ -1,7 +1,7 @@
 ## About me
 
 
-Im an 18-year-old aspiring software engineer with 6 years of programming and scripting experience. I'm currently pursuing a degree in Software Engineering, along with a minor in Leadership. I'm interested in learning how technology works, building useful software, and finding new ways to mess around with programming.
+Im an 18-year-old aspiring software engineer with about 5 and a half years(as of 11/12/26) of programming and scripting experience. I'm currently pursuing a degree in Software Engineering, along with a minor in Leadership. I'm interested in learning how technology works, building useful software, and finding new ways to mess around with programming.
 
 My interest in programming started about six years ago and has grown into something I genuinely enjoy. Since then, I've spent a lot of time learning different programming languages, building projects  and experimenting with new tools along the way figuring out how complex systems work. I enjoy taking an idea and making it into something that I could call my own.
 
